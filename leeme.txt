@@ -1,0 +1,15 @@
+/////////////////////////////////////
+////Botón Plugin para Menéame 1.0////
+/////////////////////////////////////
+
+Aplicacion realizada por Josep Selles i Jover
+http://josepsj.eshost.es/
+
+Registrado bajo Licencia Creative Commons
+
+Esta aplicación se puede modificar y difundir siempre y cuando
+se reconozca la autoría del script base y no sea para uso comercial.
+
+http://www.creativecommons.org/
+
+Agradecimientos a www.librosWEB.es por divulgar sin ánimo de lucro un material de excelente calidad. 

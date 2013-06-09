@@ -1,0 +1,75 @@
+.meneame a{
+    text-decoration: none;
+    color: black;
+    border: none;
+}
+
+.meneame > a > div{
+    height: 19px;
+    float:left;
+    background-image: url("botonNegroCaja.png");
+}
+
+/*  BOTON ESTANDAR    */
+.meneame div.boton{
+    width: 87px;
+}
+/*       BOTON CON CONTADOR Y ESTADO     */
+.meneame div.botonCont{
+    width: 83px;
+}
+.meneame div.inicio{
+    width: 3px;
+    background-position: -87px 0;
+}
+.meneame div.num{
+    width: auto;
+    font-size: 12px;
+    color: black;
+    font-family: verdana, sans-serif;
+    background-position: -90px 0;
+}
+
+.meneame div.num div{
+    padding-top: 2px;
+}
+
+.meneame div.fin{
+    width: 3px;
+    background-position: -127px 0;
+}
+/*  SEMAFORO  ESTADO  */
+
+.meneame div.pendiente{
+    width: 17px;
+    background-position: -130px 0; 
+}
+
+.meneame div.publicado{
+    width: 17px;
+    background-position: -147px 0; 
+}
+
+.meneame div.descartado{
+    width: 17px;
+    background-position: -164px 0; 
+}
+
+div.clear{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
